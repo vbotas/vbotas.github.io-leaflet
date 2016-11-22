@@ -1,0 +1,1 @@
+Mejora tu solución del ejercicio “Leaflet: Instalaci´on y prueba” (5.9.1) añadiendo lo necesario para que cuando el usuario pulse en un punto del mapa, se muestre un popup con las coordenadas (latitud y longitud) de ese punto.

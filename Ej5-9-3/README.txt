@@ -1,0 +1,1 @@
+Mejora tu solución del ejercicio “Leaflet: Coordenadas” (5.9.2), haciendo que el mapa se muestre a pantalla completa, colocado sobre tu situación actual (que se muestre como un círculo con un tamaño equivalente a la exactitud de la localización), y de forma que funcione en móviles.
